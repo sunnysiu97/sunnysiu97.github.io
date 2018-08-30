@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "sunnysiu",
         "url": "https://www.linkedin.com/in/sunny-siu-71635216a/"
-      },
+      }
     ]
   },
   "interests": [
@@ -44,12 +44,12 @@
       "name": "javascript",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "java",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "C++",
       "keywords": [
@@ -61,10 +61,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-       
+
         "C++",
         "Java"
-        
+
       ]
     },
     {
@@ -72,10 +72,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        
+
         "Git/GitHub",
         "g++"
-        
+
       ]
     }
   ],
@@ -138,7 +138,7 @@
       "date": "2015-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    }    
+    }
   ],
   "references": [
     {
