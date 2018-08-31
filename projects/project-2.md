@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/icshead.png
 title: ICS Head
-permalink: projects/vacay
+permalink: projects/icshead
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-04-30
 labels:
   - Java
   - Eclipse
