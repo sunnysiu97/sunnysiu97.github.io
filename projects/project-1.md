@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/paintbrush.jpg
+image: images/paintbrush.png
 title: Java paint
 permalink: projects/paint
 # All dates must be YYYY-MM-DD format!
