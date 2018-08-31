@@ -1,61 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/C++.png
+title: Bank Record
+permalink: projects/bankrecord
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-28
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C++
+  - uhunix
+  - Terminal
+summary: A banking record I programmed for ICS 212
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Bank record program was created for a project in ICS212. It is coded in C++ on uhunix. It was a solo project which lasted over weeks. The usable options for the menu to the bank record was to add a new record in the database, which need to include your name, address, and an account number you wish to have. The second option would be to print out information about a specific record using account number as the key. The third option would be to print all information in the database. Fourth option would to delete an existing record the database using an account number as the key, if there wasn't an account of such, it would return "Not in system". Fifth option would be to reverse the record in the database and print the record, for example, instead of print 101 first, the highest account number would be printed first. Sixth would be to exit the program without any errors. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This project took me a long time because of how new everything was to me, I've never coded in C++ nor have I use uhunix or a terminal to code. Therefore it took me a while to transition to C++ because I was so used to using Java. I would ran into a lot of errors but I had TA and friends debugging the code where I couldn't figure out what was wrong. Overall, it was a good experience because it was different from ICS111, taking a step away from creating games. Stepping a bit more into creating programs in a real life situation. 
