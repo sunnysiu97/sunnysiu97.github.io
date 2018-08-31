@@ -1,25 +1,47 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/icshead.png
 title: ICS Head
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Java
+  - Eclipse
+  - EZ.JAVA
+  
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+ICS Head was a game our group made during ICS111, with the implementation of EZ.java. I was in charge of creating the character movement, zombie movement, and bullet collision of how it looks when it shoots and how it affects the zombie. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project I gained experience with for java video game design and how hard coding the collision hitboxes were even for such a simple game. Even with the help of our group memebers and the TA, we were having a hard time figuring out how to solve it. It was a good experience because it opened my eyes as to how many lines of code and the amount of effort was needed to program even such a simple game. Even though it was hard, the project was still a lot of fun to us because it taught us about leadership and how to work together as a group.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This is a part of the code of how we implemented the bullet collision and Hero movement:
+
+```js
+while(Hero.HERO_ALIVE == true){
+			Hero.go(); //hero movemnt
+			MoveZombie(); // zombie move towards 
+			/*if (Hero.touchingZombie(zX, zY)){
+				Hero.HERO_ALIVE = false;
+				EZ.removeAllEZElements();
+			}*/
+			 HeroX = Hero.GetXCenter();
+			 HeroY = Hero.GetYCenter();
+	 
+		for (int i = 0; i < 20; i++) {
+			
+			if (EZInteraction.wasKeyPressed('j') && Hero.moveleft == true) { // if j was pressed, character looking left, shoot left
+				bulletright = false; // call all booleans false, except for character facing left
+				bulletup = false;
+				bulletdown = false;
+				Bullet[i].translateTo(HeroX, HeroY); //create bullet.
+				bulletleft = true;
+			
+			}
+```
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
