@@ -5,7 +5,7 @@ image: images/paintbrush.png
 title: Java paint
 permalink: projects/paint
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-02-12
 labels:
   - Eclipse
   - EZ.Java
