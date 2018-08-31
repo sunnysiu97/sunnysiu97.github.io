@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/C++.png
+image: images/C++.jpg
 title: Bank Record
 permalink: projects/bankrecord
 # All dates must be YYYY-MM-DD format!
