@@ -11,7 +11,7 @@ labels:
   - Eclipse
   - EZ.JAVA
   
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A simple java 2d- Arena shooter game.
 ---
 
 
