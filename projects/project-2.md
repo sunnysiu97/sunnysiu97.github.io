@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/icshead.png
+image: images/icshead.jpg
 title: ICS Head
 permalink: projects/icshead
 # All dates must be YYYY-MM-DD format!
