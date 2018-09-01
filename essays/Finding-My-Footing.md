@@ -15,7 +15,7 @@ labels:
 
 Ever since I've touch a computer and gaming console as a kid, I was curious of how software and games were made. Being able to study how they did it is amazing because as I am learning about one topic, another topic pops up and I am consistently amazed at how coding came to be. Being able to learn coding is a dream come true for the young me.
 
-<img class="ui tiny left circular floated image" src="../images/custom-computer.jpg">
+<img class="ui large left circular floated image" src="../images/custom-computer.jpg">
 
 I didn't always choose Computer Science as my major. At first I was a psychology major, then a travel industry management major, but none of those majors made me feel like it was something I want to study for a long time. But then I realized I always loved gaming and looking up computer parts, I realized that computer science was the major for me. I love building computers but it amazed me even more when we started coding in ICS 111. It opened my eyes to how big the coding world is. It is like a golden opportunity for the world to use their imagination and make their own programs.
 
