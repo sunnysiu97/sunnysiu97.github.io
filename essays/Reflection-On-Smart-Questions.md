@@ -9,4 +9,5 @@ labels:
   - Asking Questions
 ---
 
+
 Sometimes we are afraid to speak up and ask questions. However, asking questions is a form of learning and it shows that we are engaged in learning the topic.
