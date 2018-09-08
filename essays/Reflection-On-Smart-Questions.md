@@ -15,7 +15,7 @@ After reading Eric Raymond's <a href="http://www.catb.org/esr/faqs/smart-questio
 
 <h2 id="dumb-questions">Dumb Questions</h2>
 
-Dump and bad questions you would ask would be just questions that you can google up. This post would be a perfect example of how someone asks a bad question, with its vague title, unclear description of problem / desired output, no examples of code, no prior research were included. According to Eric Raymond’s guidelines, this question has little chance of providing effective and efficient help, if anyone even bothers to answer it. This question is new but I high doubt anyone would provide an answer because of the lack of effort. The reason for why I thought this to be a bad example of question asking is that the question asked showed lack of effort in finding the answer for himself or even giving examples of what he has tried. 
+B questions you would ask would be just questions that you can google up. <a href="https://stackoverflow.com/questions/25327497/meaning-of-stackoverflow-in-c-programming">This question</a> would be a perfect example of how someone asks a bad question, with its vague title, unclear description of problem / desired output, no examples of code, no prior research were included. According to Eric Raymond’s guidelines, this question has little chance of providing effective and efficient help, if anyone even bothers to answer it. This question is new but I high doubt anyone would provide an answer because of the lack of effort. The reason for why I thought this to be a bad example of question asking is that the question asked showed lack of effort in finding the answer for himself or even giving examples of what he has tried. 
 
 <h2 id="smart-questions">Smart Questions</h2>
 
