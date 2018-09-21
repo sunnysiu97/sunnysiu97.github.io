@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Formatting Saves Codes
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-06
+date: 2018-09-20
 labels:
   - Code Formatting
   - Javascript
