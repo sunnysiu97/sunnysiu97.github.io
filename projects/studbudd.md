@@ -23,7 +23,7 @@ Our goal for StudBudd is to create a Meteor application to provide the students 
 # User Guide
 
 When you first visit the page, you will be greeted by our Landing Page!
-<img class="ui large left circular floated image" src="../images/MS3-LP.png">
+<img class="ui large left circular image" src="../images/MS3-LP.png">
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
