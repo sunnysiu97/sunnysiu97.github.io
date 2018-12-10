@@ -27,19 +27,19 @@ When you first visit the page, you will be greeted by our Landing Page!
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
-<img class="ui large left circular floated image" src="../images/MS3-SIGNUP.png">
+<img class="ui large left circular image" src="../images/MS3-SIGNUP.png">
 
 Once you are signed in, you can visit the Classes page. You will be greeted by an empty page with a list of classes on the left. Clicking on a class will display a list of mentors that are proficient in that class.
 
-<img class="ui large left circular floated image" src="../images/MS3-CLASS.png">
+<img class="ui large left circular image" src="../images/MS3-CLASS.png">
 
 You can also visit the mentors page, in which you will be greeted with a full list of all of the available mentors and the subjects they are offering mentoring in. 
 
-<img class="ui large left circular floated image" src="../images/MS3-MENTOR.png">
+<img class="ui large left circular image" src="../images/MS3-MENTOR.png">
 
 If you are logged in as a mentor or student, Visiting the students page will display all the students and the subjects they are looking for help in. When a student is clicked, you will be redirected to their profile. From there, as a mentor you can offer help. As a student, you can plan group study sessions that student if you need help in the same subject.
 
-<img class="ui large left circular floated image" src="../images/MS3-STUDENT.png">
+<img class="ui large left circular image" src="../images/MS3-STUDENT.png">
 
 # Community Feedback
 UH alumni,Brandon Chun, said to change the title for visibility and edit the mentor card so the so information is more clear, and to range our pages. He also was not thrilled with the name 'StudBudd' and recommended 'StudMuffin'. Other comments,from another former UH student, focused on the aesthetics of the cite, and a few concerns about functionality. 
