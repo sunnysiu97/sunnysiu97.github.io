@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "sunnysiu97",
-        "url": "http://github.com/changeme"
+        "url": "https://sunnysiu97.github.io/"
       },
       {
         "network": "linkedin",
@@ -63,7 +63,9 @@
       "keywords": [
 
         "C++",
-        "Java"
+        "Java",
+        "g++",
+        "javascript",
 
       ]
     },
@@ -72,8 +74,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
-        "g++"
+        "GitHub",
+        "intelliJ"
 
       ]
     }
